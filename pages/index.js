@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div>
-      <h1>Alura Cases</h1>
+      <h1>Alura Cases | Example</h1>
     </div>
   );
 }
